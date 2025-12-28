@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Kaung Htet Zaw (Kaung) 👋
 React Developer building modern, responsive web apps.
 
