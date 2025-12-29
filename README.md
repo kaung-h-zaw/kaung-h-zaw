@@ -3,7 +3,7 @@ React Developer building modern, responsive web apps.
 
 ## 🚀 Live Projects
 - **SENDO** — Ebook Sender web app (React).
-  - Live demo: https://sendo-snowy.vercel.app/
+  - Live demo: https://sendo-ebook.vercel.app/
 
 - **My Portfolio** — Personal portfolio site.
   - Live demo: https://kaung-space.vercel.app/
