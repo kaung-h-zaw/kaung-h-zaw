@@ -1,5 +1,5 @@
 # Hi, I'm Kaung Htet Zaw (Kaung) 👋
-React Developer building modern, responsive web apps.
+MERN Developer building modern, responsive web apps.
 
 ## 🚀 Live Projects
 - **SENDO** — Ebook Sender web app (React).
