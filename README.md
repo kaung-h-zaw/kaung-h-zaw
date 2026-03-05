@@ -6,7 +6,7 @@ MERN Developer building modern, responsive web apps.
   - Live demo: https://sendo-ebook.vercel.app/
 
 - **My Portfolio** — Personal portfolio site.
-  - Live demo: https://kaung-space.pages.dev/
+  - Live demo: https://kaungspace.pages.dev/
 
 
 ## 🧰 Tech stack
@@ -17,5 +17,5 @@ React • JavaScript • Tailwind • REST APIs • Git/GitHub
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaung-h-zaw&layout=compact&hide_border=true)
 
 ## 🤝 Contact
-Portfolio: https://kaung-space.pages.dev/
+Portfolio: https://kaungspace.pages.dev/
 LinkedIn: www.linkedin.com/in/kaung-h-zaw
