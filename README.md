@@ -6,7 +6,7 @@ MERN Developer building modern, responsive web apps.
   - Live demo: https://sendo-ebook.vercel.app/
 
 - **My Portfolio** — Personal portfolio site.
-  - Live demo: https://kaung-space.vercel.app/
+  - Live demo: https://kaung-space.pages.dev/
 
 
 ## 🧰 Tech stack
